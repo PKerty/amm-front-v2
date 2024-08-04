@@ -30,7 +30,7 @@ interface TokenProps {
           htmlFor="price"
           className="block text-sm font-medium leading-6 text-gray-900"
         >
-          {tokenProps.tokenName} Price
+          {tokenProps.tokenName} Amount
         </label>
         <div className="relative mt-2 rounded-md shadow-sm mb-2">
           <div className="pointer-events-none absolute inset-y-0 left-0 flex items-center pl-3">
